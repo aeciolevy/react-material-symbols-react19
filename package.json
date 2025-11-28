@@ -1,7 +1,7 @@
 {
   "name": "react-material-symbols-react19",
   "private": false,
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A copy of react-material-symbols updated to support React 19.",
   "type": "module",
   "types": "./dist/index.d.ts",
@@ -78,7 +78,7 @@
     "vite-plugin-dts": "^2.1.0",
     "vitest": "^0.29.3"
   },
- "repository": {
+  "repository": {
     "type": "git",
     "url": "git+https://github.com/aeciolevy/react-material-symbols-react19.git"
   },
